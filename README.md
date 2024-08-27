@@ -1,5 +1,5 @@
 ![](https://user-images.githubusercontent.com/970858/63474771-d6734700-c469-11e9-83bb-9429da563909.png)
-# LAB-Python-Advanced-Modules-and-Libraries
+# LAB-Advanced-Python-Modules-and-Libraries
 
 # Python - Libraries-and-modules
 
