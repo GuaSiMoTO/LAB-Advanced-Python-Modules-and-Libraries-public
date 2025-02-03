@@ -1,8 +1,6 @@
 ![](https://user-images.githubusercontent.com/970858/63474771-d6734700-c469-11e9-83bb-9429da563909.png)
 # LAB-Advanced-Python-Modules-and-Libraries
 
-# Python - Libraries-and-modules
-
 ## Introduction
 
 > ***Note:*** _This can be a pair programming activity or done independently._
