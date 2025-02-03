@@ -59,6 +59,24 @@ Bruce Wayne – iambatman@example.com – Reboot 1 - 9
 ## Iteration 4 / **Modify_students**
 The student "Mia Lee" has changed her email address and would like to update her information in the academy. Implements the function to modify the data of a user and save the changes in the file data.txt
 
+## Iteration 5: Streamlit Interactive Components
+
+1. Create a new Streamlit app named interactive_app.py.
+
+2. Implement different UI components:
+
+- A text input for user comments.
+
+- A radio button group to let users select between options.
+
+- A slider to adjust a numerical value.
+
+- A checkbox that toggles the visibility of a text message.
+
+3. Display the values entered by the user dynamically.
+
+4. Add a button that, when clicked, generates a simple message based on user input.
+
 ## BONUS - **Improve_your_knowledge**
 
 Research the external module "Pandas" and its functionality for data analysis in Python. Then, create a program that uses the "Pandas" module to:
